@@ -1,6 +1,6 @@
 # MoonSample
 
-Pre-computed Autonomy module for the Enceladus Orbilander mission.
+Pre-computed autonomy module for the Enceladus Orbilander mission.
 
 ![MCTS](animation.gif)
 
